@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "vee-validate": "^2.0.3",
     "vue": "^2.5.13"
   },
   "devDependencies": {
